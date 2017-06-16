@@ -1,3 +1,5 @@
+
+
 class Trouble
 {
   public static void main(String[] args){
@@ -5,12 +7,7 @@ class Trouble
     
     int positionNew=0;// position for yellow
    int position =0;// position for yellow
-   int position2=0;// position for green
-     int positionnew2=0;// green
-     int position3=0;
-     int positionnew3=0;
-     int position4=0;
-     int positionnew4=0;
+   
     
     int table;
    
